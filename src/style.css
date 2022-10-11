@@ -1,1 +1,12 @@
 /* styles go here */
+.groupOfInputs {
+  margin-bottom: 20px;
+}
+
+.localInput {
+  margin-bottom: 10px;
+}
+
+#reccomend {
+  margin-top: 10px;
+}
