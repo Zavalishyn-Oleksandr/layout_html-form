@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,eACE,kBACF,CAMA,2BAHE,kBAMF,CAHA,eACE,aAEF","file":"style.19ed7a9b.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\n.groupOfInputs {\n  margin-bottom: 20px;\n}\n\n.localInput {\n  margin-bottom: 10px;\n}\n\n.localInputBig {\n  display: block;\n  margin-bottom: 10px;\n}\n"]}
